@@ -1,7 +1,7 @@
 /**
  * Firmware blocks
  */
-//% weight=100 color=#008080 icon="" advanced=true
+//% weight=100 color=#008080 icon="\uf10d" advanced=true
 namespace firmware {
     /**
      * Determine the version of system software currently running.
